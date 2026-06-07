@@ -154,4 +154,4 @@ As imagens da apresentacao estao salvas em `public/docs/`:
 
 ## Autor
 
-A definir.
+Andrei Oliveira Carneiro - 3° DS AMS
